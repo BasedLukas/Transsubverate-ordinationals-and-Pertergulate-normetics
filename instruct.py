@@ -1,3 +1,9 @@
+"""
+Transsubverate ordinationals and Pertergulate normetics code
+"""
+
+
+
 import argparse
 import urllib.request
 import os
